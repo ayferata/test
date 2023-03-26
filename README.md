@@ -10,4 +10,5 @@ public class Test {
       b = (a == 10) ? 20: 30;
       System.out.println( "Value of b is : " + b );
    }
+   
 }
